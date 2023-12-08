@@ -7,3 +7,4 @@ minimale hard- en software waarmee aangetoond wordt dat duplex kan gecommuniceer
 
 ### gebruiksaanwijzing
 
+Json te vinden bij technische tekeningen elektronisch
